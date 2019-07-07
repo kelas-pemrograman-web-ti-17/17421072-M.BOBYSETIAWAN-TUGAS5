@@ -1,12 +1,12 @@
 {
-  "name": "learning-pug",
+  "name": "pugku",
   "version": "1.0.0",
   "description": "Belajar Node JS dan Pug",
   "main": "app.js",
   "scripts": {
     "start": "node ./bin/www"
   },
-  "author": "Muhammad Suhendri",
+  "author": "Kelompok Uas",
   "license": "ISC",
   "dependencies": {
     "consolidate": "^0.15.1",
